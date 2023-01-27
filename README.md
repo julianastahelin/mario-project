@@ -8,11 +8,11 @@
 <p>The project aim was to build a landing page using HTML, CSS and JS. The chosen theme is the new Mario Bros' movie.</p>
 
 <h3>Preview</h3>
-<a href=""><img src="./src/imagens/screen-animation.gif" alt="gif of the project's live page with trailer video playing" style="width: 80%;"></a>
+<a href="https://julianastahelin.github.io/mario-project/"><img src="./src/imagens/screen-animation.gif" alt="gif of the project's live page with trailer video playing" style="width: 80%;"></a>
 
 <h3>Link</h3>
 <ul>
-    <li>Live site URL: <a href=""></a></li>
+    <li>Live site URL: <a href="https://julianastahelin.github.io/mario-project/"></a>https://julianastahelin.github.io/mario-project/</li>
 </ul>
 
 <h2>My process</h2>
